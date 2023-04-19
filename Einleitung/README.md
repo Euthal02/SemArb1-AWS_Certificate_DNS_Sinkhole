@@ -1,1 +1,1 @@
-[1.1. Was ist AWS?](Einleitung/was_ist_aws.md.md)
+[1.1. Was ist AWS?](./was_ist_aws.md)
