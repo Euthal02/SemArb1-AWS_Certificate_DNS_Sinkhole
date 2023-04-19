@@ -14,8 +14,10 @@ Folgende Risiken habe ich
 
 [1. Einleitung](./Einleitung/README.md)
 
-[1.1. Was ist AWS?](./Einleitung/was_ist_aws.md.md)
+[1.1. Was ist AWS?](./Einleitung/was_ist_aws.md)
 
 [2. Hauptteil](./Hauptteil/README.md)
 
 [3. Abschluss](./Schlussteil/README.md)
+
+
