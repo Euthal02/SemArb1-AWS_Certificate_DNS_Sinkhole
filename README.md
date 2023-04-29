@@ -25,6 +25,8 @@ Für meine Dokumentation nutze ich GitHub.
 
 [1.6 Was sind meine Risiken?](./Einleitung/risiken.md)
 
+-----
+
 [2. Hauptteil](./Hauptteil/README.md)
 
 [2.1 Was mache ich als Nebenprojekt](./Hauptteil/Nebenprojekt/nebenprojekt.md)
@@ -50,6 +52,8 @@ Für meine Dokumentation nutze ich GitHub.
 [2.3.9 AWS Academy Modul 9](./Hauptteil/AWS_Academy_Module/modul9.md)
 
 [2.3.10 AWS Academy Modul 10](./Hauptteil/AWS_Academy_Module/modul10.md)
+
+-----
 
 [3. Abschluss](./Schlussteil/README.md)
 
