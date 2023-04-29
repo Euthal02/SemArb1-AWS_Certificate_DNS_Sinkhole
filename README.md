@@ -27,27 +27,29 @@ Für meine Dokumentation nutze ich GitHub.
 
 [2. Hauptteil](./Hauptteil/README.md)
 
-Nebenprojekt
+[2.1 Was mache ich als Nebenprojekt](./Hauptteil/Nebenprojekt/nebenprojekt.md)
 
-Modul 1
+[2.3 Modul Zusammenfassung](./Hauptteil/AWS_Academy_Module/modul_zusammenfassung.md)
 
-Modul 2
+[2.3.1 AWS Academy Modul 1](./Hauptteil/AWS_Academy_Module/modul1.md)
 
-Modul 3
+[2.3.2 AWS Academy Modul 2](./Hauptteil/AWS_Academy_Module/modul2.md)
 
-Modul 4
+[2.3.3 AWS Academy Modul 3](./Hauptteil/AWS_Academy_Module/modul3.md)
 
-Modul 5
+[2.3.4 AWS Academy Modul 4](./Hauptteil/AWS_Academy_Module/modul4.md)
 
-Modul 6
+[2.3.5 AWS Academy Modul 5](./Hauptteil/AWS_Academy_Module/modul5.md)
 
-Modul 7
+[2.3.6 AWS Academy Modul 6](./Hauptteil/AWS_Academy_Module/modul6.md)
 
-Modul 8
+[2.3.7 AWS Academy Modul 7](./Hauptteil/AWS_Academy_Module/modul7.md)
 
-Modul 9
+[2.3.8 AWS Academy Modul 8](./Hauptteil/AWS_Academy_Module/modul8.md)
 
-Modul 10
+[2.3.9 AWS Academy Modul 9](./Hauptteil/AWS_Academy_Module/modul9.md)
+
+[2.3.10 AWS Academy Modul 10](./Hauptteil/AWS_Academy_Module/modul10.md)
 
 [3. Abschluss](./Schlussteil/README.md)
 
