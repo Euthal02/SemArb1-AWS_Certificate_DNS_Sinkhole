@@ -1,1 +1,1 @@
-[Zurück zum Unterverzeichnis](../README.md)
+[Zurück zum Unterverzeichnis](./README.md)
