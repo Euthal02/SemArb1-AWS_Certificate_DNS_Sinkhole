@@ -1,4 +1,5 @@
 # Einleitung
+
 Allgemeine Fragen / Problemstellung und Erwartungen werden im Kapitel Einleitung bearbeitet.
 Hier sollten sich alle Fragen bezüglich dem eventuellen SOLL Zustand klären.
 
@@ -7,6 +8,7 @@ Im Kapitel Hauptteil wird anschliessend das Projekt erarbeitet.
 Im Kapitel Schlussteil wird das ganze Projekt kritisch hinterfragt und allmögliche Verbesserungsmöglichkeiten notiert.
 
 ## Unterverzeichnis
+
 [1.1 Was mache ich überhaupt?](./projektidee.md)
 
 [1.2. Was ist AWS?](./was_ist_aws.md)

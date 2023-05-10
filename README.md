@@ -1,4 +1,5 @@
 # Semesterarbeit Semester 1 - ITCNE23 - Marco Kälin
+
 Dieses Repo dient als Dokumentationsstandort für meine Semesterarbeit.
 Meine Arbeit beinhaltet die AWS Zertifizierung mit einem kleinen Nebenprojekt.
 
@@ -9,6 +10,7 @@ Ich möchte meinen Werdegang zur AWS Zertifizierung dokumentieren und nützliche
 [Bild Quelle - AWS Titelblatt](./Anhang/quellen.md#aws-titelblatt)
 
 ## Dokumentationsaufbau
+
 Für meine Dokumentation nutze ich GitHub.
 
 ## Inhaltsverzeichnis

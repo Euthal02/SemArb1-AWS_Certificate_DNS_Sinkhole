@@ -1,8 +1,10 @@
 # Projektmethode
+
 Als Projektmethode möchte ich möglichst offene und freie Methoden nehmen.
 Ich arbeite nach einem LEAN Prinzip, plane nach SCRUM und behalte den Überblick mit KANBAN.
 
 ## LEAN Prinzip
+
 Um es in den Worten von Chat-GPT zu sagen:
 
     Das LEAN-Prinzip ist eine Philosophie und Methodik zur Prozessoptimierung und Effizienzsteigerung in Unternehmen. Hier sind einige Schritte, um nach dem LEAN-Prinzip zu arbeiten:
@@ -34,6 +36,7 @@ Ich verstehe die erwähnten Punkte vorallem so, dass nach Möglichkeit Überschn
 Aus diesem Grunde möchte ich auch meine Projektmethode auf LEAN basieren. Ich möchte meine Zeit und Energie darauf fokussieren das Projekt durchzuführen, statt es zu planen.
 
 ## SCRUM
+
 Die Idee hinter Scrum, Sprints zu verwenden um effiziente Arbeitserledigung zu ermöglichen, finde ich persönlich sehr sympathisch. Ich finde es eine gute Möglichkeit, am Anfang eines Sprint die genauen Ziele zu besprechen und zu definieren und anschliessend möglichst ohne Unterbrechungen an diesem Ziel zu arbeiten.
 
 ![SCRUM Overview](../Ressourcen/Bilder/projectmanagment/scrum_overview.jpg)

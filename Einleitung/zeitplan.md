@@ -1,7 +1,9 @@
 # Zeitplan
+
 Beim Zeitplan ist zu unterscheiden zwischen dem eigentlichen SOLL Zeitplan, welcher beim Einreichungsformular eingegeben wurde, und dem IST Zeitplan.
 
 ## SOLL Zustand - Einreichungsformular
+
 | Datum        | Aufgabe                                                                                                             |
 | ------------ | ------------------------------------------------------------------------------------------------------------------- |
 | 26.04.2023   | Modul 1 repetiert und dokumentiert.                                                                                 |
@@ -20,9 +22,12 @@ Beim Zeitplan ist zu unterscheiden zwischen dem eigentlichen SOLL Zeitplan, welc
 | 12.07.2023   | Ende 3-ter Sprint / Abgabe der Arbeit                                                                               |
 
 ## IST Zustand - GitHub
+
 Mein Zeitplan ist dargestellt in GitHub.
 Ich nutze die Funktion Issues zu Tasks konvertieren, diese Tasks können dann einem Kanban Board dargestellt und in einem Gantt Diagram eingeordnet werden.
 
 [Öffentlich einsehbar unter diesem Link!](https://github.com/users/Euthal02/projects/2/views/2)
+
+-----
 
 [Zurück zum Unterverzeichnis](./README.md)
