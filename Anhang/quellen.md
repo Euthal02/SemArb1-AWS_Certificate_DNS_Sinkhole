@@ -16,6 +16,14 @@ Seite 13, <https://awsacademy.instructure.com/courses/40895/modules/items/351063
 
 <http://1.bp.blogspot.com/-5EC7uXfIxR8/VlhTFG2O2uI/AAAAAAAAXg0/eAT3wtpDk3s/s1600/SystemsPlus-Scrum-Image-.jpg>
 
+### Kanban Beispiel
+
+<https://gofarwell.com/wp-content/uploads/2020/12/Kanban-Board-Flow-Do-Doing-Done1000px.png>
+
+### DNS Sinkhole
+
+<https://bluecatnetworks.com/wp-content/uploads/2021/08/what-is-a-DNS-sinkhole-80.jpg>
+
 ## Hilfsmittel
 
 Welche Hilfsmittel habe ich genutzt?

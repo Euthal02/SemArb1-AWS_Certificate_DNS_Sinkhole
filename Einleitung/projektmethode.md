@@ -45,7 +45,28 @@ Die "Daily Scrum Meetings" fallen bei diesem Projekt weg, da ich der einzige Sta
 
 Ich finde die sich anbietende Vermischung von Lean und Scrum sehr positiv, da wir mit Lean besonders auf die Einfachheit eines Projekts acht geben, und bei Scrum die Einfachheit aufgrund der separierten Sprints bereits in einem bestimmten Masse gegeben ist.
 
+Wir haben 3 Sprints in dieser Semesterarbeit.
+
+* [Sprint 1: 19ter April 2023 - 16ter Mai 2023](https://github.com/Euthal02/SemArb1-AWS_Certificate_DNS_Sinkhole/issues/21)
+* [Sprint 2: 17ter Mai 2023 - 13 Juni 2023](https://github.com/Euthal02/SemArb1-AWS_Certificate_DNS_Sinkhole/issues/28)
+* [Sprint 3: 14 Juni 2023 - 11 Juli 2023](https://github.com/Euthal02/SemArb1-AWS_Certificate_DNS_Sinkhole/issues/29)
+
 ## KANBAN
+
+Kanban ist das Mittel zum Zweck, ich möchte meine noch offenen Tasks übersichtlich darstellen, mit Kanban ist das einfach möglich.
+
+![Kanban Boards](../Ressourcen/Bilder/projectmanagment/Kanban-Boards.png)
+
+[Bild Quelle - Kanban Beispiel](../Anhang/quellen.md#kanban-beispiel)
+
+Ich habe 4 Boards:
+
+* Backlog
+* In Progress
+* Testing
+* Done
+
+[Meine Boards sind hier zu sehen.](https://github.com/users/Euthal02/projects/2/views/1)
 
 -----
 
