@@ -3,10 +3,11 @@ Grundsätzlich kannte ich das Thema Cloud-Computing schon ein bisschen, die Verl
 Den Vorteil weniger Hardware zu unterhalten ist dabei immer das erstgenannte Argument. Neu war für mich die klare Aufzeigung, dass nicht nur zu wenig Computing Power schädlich ist, sondern auch zu viel, da dann Ressourcen bezahlt wurden, welche nicht gebraucht werden.
 Amazon mit ihrem dynamischen Preismodell ist da viel flexibler. Dies spiegelt sich unter anderem auch in Personalkösten wieder, da weniger Hardware / Netzwerk Spezialisten benötigt werden, um die physische Infrastruktur zu unterhalten.
 
-Ganz wichtig für die Unterscheidung zwischen den verschiednen Cloud Computing Modellen sind die Bezeichnungen **IaaS, PaaS and SaaS.**
+Ganz wichtig für die Unterscheidung zwischen den verschiedenen Cloud Computing Modellen sind die Bezeichnungen **IaaS, PaaS and SaaS.**
 
 ![IaaS_to_SaaS](../../Ressourcen/Bilder/cloud_computing_concepts/iaas_to_saas.jpg)
-[Bild Quelle](../../Anhang/quellen.md#iaas-to-saas-jpeg-)
+
+[Bild Quelle - IaaS to SaaS](../../Anhang/quellen.md#iaas-to-saas)
 
 Diese drei Begriffe grenzen sich durch die unterschiedlichen Zugriffsberechtigungen auf die effective Hardware ab.
 IaaS biete dabei den grössten Zugriff auf die eigentliche Hardware (z.b. mit der Möglichkeit CPU Cores pro VM erhöhen oder senken zu können), während SaaS die abstrakteste Form von Cloud-Computing darstellt. (z.b. Microsoft Office im Browser, jegliche Software, welche früher auf einem lokalen PC installiert gewesen wäre, lauft nun auf der Cloud von Microsoft).

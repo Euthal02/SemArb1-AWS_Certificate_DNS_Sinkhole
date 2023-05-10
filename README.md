@@ -6,6 +6,8 @@ Ich möchte meinen Werdegang zur AWS Zertifizierung dokumentieren und nützliche
 
 ![AWS Cloud Practitioner](Ressourcen/Bilder/AWS_Bilder/aws-certified-cloud-practitioner.png)
 
+[Bild Quelle - AWS Titelblatt](./Anhang/quellen.md#aws-titelblatt)
+
 ## Dokumentationsaufbau
 Für meine Dokumentation nutze ich GitHub.
 
