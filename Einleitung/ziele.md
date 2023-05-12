@@ -1,5 +1,8 @@
 # Ziele (aus dem Einreicheformular)
 
+Folgende Ziele habe ich mir gesetzt. 
+Im Abschluss an diese Arbeit werden diese Ziele noch einmal überprüft.
+
 * Absolvieren der Zertifizierung.
 * Umfassende Dokumentation über den Learning Path.
 * Nutzbaren DNS-Server einrichten.

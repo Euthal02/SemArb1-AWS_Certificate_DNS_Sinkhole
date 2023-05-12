@@ -12,7 +12,7 @@ Wie bereits erwähnt möchte ich einen DNS Sinkhole Server aufsetzen.
 
 Ein DNS Sinkhole Server leitet DNS Anfragen für unerwünschten Domains (z.b. ads.google.com / *frei erfunden*) nicht weiter, sondern gibt einen "Error" zurück.
 
-Der Client, welcher also diesen DNS Server konfiguriert hat, kann bestimmte Domains, welche Werbung liefern nicht mehr abfragen. Das resultiert schlussendlich in weniger Werbung, da die eigentliche Werbung auf der Webseite nicht angezeigt werden kann, da die Ressourcen fehlen.
+Der Client, welcher also diesen DNS-Server konfiguriert hat, kann bestimmte Domains, welche Werbung liefern nicht mehr abfragen. Das resultiert schlussendlich in weniger Werbung, da die eigentliche Werbung auf der Webseite nicht angezeigt werden kann, da die Ressourcen fehlen.
 
 Ursprüngliche wurde diese Technik als Malwareschutz verwendet, da unbekannte, nicht erlaubte Domains einfach nicht aufgelöst wurden.
 

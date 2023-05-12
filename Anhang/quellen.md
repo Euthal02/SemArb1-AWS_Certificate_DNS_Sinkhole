@@ -27,6 +27,7 @@ Seite 13, <https://awsacademy.instructure.com/courses/40895/modules/items/351063
 ## Hilfsmittel
 
 Welche Hilfsmittel habe ich genutzt?
+Das reicht von Tools, die ich nutzen kann, bis zu Webseiten, bei welchen ich mir Wissen angeeignet habe.
 
 ### Chat-GPT
 
@@ -36,6 +37,18 @@ Welche Hilfsmittel habe ich genutzt?
 
 <https://awsacademy.instructure.com>
 
----
+### AWS Free Tier
+
+<https://aws.amazon.com/de/free/>
+
+### AWS Skillbuilder
+
+<https://explore.skillbuilder.aws/learn>
+
+### Pi Hole Manual
+
+<https://medium.com/@dion315/setting-up-a-free-pi-hole-on-aws-c24511888973>
+
+-----
 
 [Zurück zum Unterverzeichnis](./README.md)

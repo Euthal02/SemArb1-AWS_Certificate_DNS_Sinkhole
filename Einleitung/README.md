@@ -1,11 +1,11 @@
 # Einleitung
 
 Allgemeine Fragen / Problemstellung und Erwartungen werden im Kapitel Einleitung bearbeitet.
-Hier sollten sich alle Fragen bezüglich dem eventuellen SOLL Zustand klären.
+Hier sollten sich alle Fragen bezüglich eventuellen SOLL Zuständen klären.
 
 Im Kapitel Hauptteil wird anschliessend das Projekt erarbeitet.
 
-Im Kapitel Schlussteil wird das ganze Projekt kritisch hinterfragt und allmögliche Verbesserungsmöglichkeiten notiert.
+Im Kapitel Schlussteil wird das ganze Projekt kritisch hinterfragt und mögliche Verbesserungsmöglichkeiten notiert.
 
 ## Unterverzeichnis
 
