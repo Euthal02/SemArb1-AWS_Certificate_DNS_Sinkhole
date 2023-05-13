@@ -48,6 +48,14 @@ Seite 28, <https://awsacademy.instructure.com/courses/40895/modules/items/351063
 
 Seite 36, <https://awsacademy.instructure.com/courses/40895/modules/items/3510635>
 
+### Not comparable
+
+Seite 20, <https://awsacademy.instructure.com/courses/40895/modules/items/3510657>
+
+### TCO Considerations
+
+Seite 22, <https://awsacademy.instructure.com/courses/40895/modules/items/3510657>
+
 ### SCRUM overview
 
 <http://1.bp.blogspot.com/-5EC7uXfIxR8/VlhTFG2O2uI/AAAAAAAAXg0/eAT3wtpDk3s/s1600/SystemsPlus-Scrum-Image-.jpg>
