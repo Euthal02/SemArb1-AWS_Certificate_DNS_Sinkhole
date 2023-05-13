@@ -10,11 +10,25 @@ Wie bereits erwähnt möchte ich einen DNS Sinkhole Server aufsetzen.
 
 ![DNS Sinkhole Funktionalität](../Ressourcen/Bilder/nebenprojekt/what-is-a-DNS-sinkhole.jpg)
 
+[Bild Quelle - DNS Sinkhole](../Anhang/quellen.md#dns-sinkhole)
+
 Ein DNS Sinkhole Server leitet DNS Anfragen für unerwünschten Domains (z.b. ads.google.com / *frei erfunden*) nicht weiter, sondern gibt einen "Error" zurück.
 
 Der Client, welcher also diesen DNS-Server konfiguriert hat, kann bestimmte Domains, welche Werbung liefern nicht mehr abfragen. Das resultiert schlussendlich in weniger Werbung, da die eigentliche Werbung auf der Webseite nicht angezeigt werden kann, da die Ressourcen fehlen.
 
-Ursprüngliche wurde diese Technik als Malwareschutz verwendet, da unbekannte, nicht erlaubte Domains einfach nicht aufgelöst wurden.
+Ursprüngliche wurde diese Technik als Malwareschutz verwendet, da unbekannte, nicht erlaubte Domains einfach nicht aufgelöst wurden. Durch das gleiche Prinzip kann man aber auch Werbung blockieren.
+
+Ich möchte diesen Service auf AWS aufbauen, um den Bezug auf AWS herzustellen.
+
+### Sekundäres Projekt
+
+Sollte mir mein eigentliches Projekt nicht gelingen, so habe ich die Möglichkeit mein sekundäres Projekt durchzuführen.
+
+Mein sekundäres Projekt ist ein Wireguard VPN Service, welchen ich nutzen kann, um einen physikalischen Standort zu täuschen.
+
+![Wireguard Logo](../Ressourcen/Bilder/wireguard/wireguard_logo.jpg)
+
+[Bild Quelle -  Wireguard Logo](../Anhang/quellen.md#wireguard-logo)
 
 -----
 

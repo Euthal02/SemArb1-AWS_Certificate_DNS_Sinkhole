@@ -12,6 +12,42 @@ Woher sind meine genutzten Bilder?
 
 Seite 13, <https://awsacademy.instructure.com/courses/40895/modules/items/3510635>
 
+### Cloud to On-Premise
+
+Seite 14, <https://awsacademy.instructure.com/courses/40895/modules/items/3510635>
+
+### CapEx to OpEx
+
+Seite 18, <https://awsacademy.instructure.com/courses/40895/modules/items/3510635>
+
+### Economies of scale
+
+Seite 19, <https://awsacademy.instructure.com/courses/40895/modules/items/3510635>
+
+### Guessing Capacity
+
+Seite 20, <https://awsacademy.instructure.com/courses/40895/modules/items/3510635>
+
+### Speed and Agility
+
+Seite 21, <https://awsacademy.instructure.com/courses/40895/modules/items/3510635>
+
+### Main Business focused
+
+Seite 22, <https://awsacademy.instructure.com/courses/40895/modules/items/3510635>
+
+### Global in minutes
+
+Seite 23, <https://awsacademy.instructure.com/courses/40895/modules/items/3510635>
+
+### Service Kategorien
+
+Seite 28, <https://awsacademy.instructure.com/courses/40895/modules/items/3510635>
+
+### Cloud Adoption Framework
+
+Seite 36, <https://awsacademy.instructure.com/courses/40895/modules/items/3510635>
+
 ### SCRUM overview
 
 <http://1.bp.blogspot.com/-5EC7uXfIxR8/VlhTFG2O2uI/AAAAAAAAXg0/eAT3wtpDk3s/s1600/SystemsPlus-Scrum-Image-.jpg>
@@ -23,6 +59,10 @@ Seite 13, <https://awsacademy.instructure.com/courses/40895/modules/items/351063
 ### DNS Sinkhole
 
 <https://bluecatnetworks.com/wp-content/uploads/2021/08/what-is-a-DNS-sinkhole-80.jpg>
+
+### Wireguard Logo
+
+<https://tse2.mm.bing.net/th?id=OIP.UGeuzAbcxE4g7M-qwP0ksQHaD4&pid=Api>
 
 ## Hilfsmittel
 
