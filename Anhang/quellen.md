@@ -72,6 +72,14 @@ Seite 60, <https://awsacademy.instructure.com/courses/40895/modules/items/351065
 
 Seite 62, <https://awsacademy.instructure.com/courses/40895/modules/items/3510657>
 
+### Availability Zones
+
+Seite 12, <https://awsacademy.instructure.com/courses/40895/modules/items/3510678>
+
+### Infrastructure Overview
+
+Seite 16, <https://awsacademy.instructure.com/courses/40895/modules/items/3510678>
+
 ### SCRUM overview
 
 <http://1.bp.blogspot.com/-5EC7uXfIxR8/VlhTFG2O2uI/AAAAAAAAXg0/eAT3wtpDk3s/s1600/SystemsPlus-Scrum-Image-.jpg>
