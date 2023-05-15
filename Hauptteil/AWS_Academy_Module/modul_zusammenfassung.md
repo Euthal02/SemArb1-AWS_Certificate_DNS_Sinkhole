@@ -16,6 +16,13 @@ Zusätzlich dazu werden "Organizations" und der Pricing Calculator vorgestellt.
 
 [Zum Modul](./modul2.md)
 
+## Modul 3
+
+Im dritten Modul wird der Aufbau der AWS Infrastruktur nähergebracht. 
+Dieses Modul zeigt auf, was die Rechenzentren, Regionen und "Availability Zones" genau sind.
+
+[Zum Modul](./modul3.md)
+
 -----
 
 [Zurück zum Unterverzeichnis](../README.md)

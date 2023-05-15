@@ -78,6 +78,56 @@ Zum Beispiel:
 * Ein Hard Benefit ist, das die CapEx Kosten mit dem Einsatz von AWS Cloud gesenkt werden können.
 * Ein Soft Benefit ist, die Befreiung der Mitarbeiter vom Hardware Management, was Ressourcen öffnet, um das Geschäft zu expandieren.
 
+## AWS Organizations
+
+Organizations erlaubt uns, mehrere AWS Accounts Billings zu kombinieren. Bei einem grossen Unternehmen, bei welchem man einzelne Teams mit unterschiedlichen Accounts hat, macht dies die Abrechnung einfacher, da dies zentral gemacht werden kann.
+
+![Tree Structure of Organizations](../../Ressourcen/Bilder/AWS_Bilder/organizations/tree_structure.jpg)
+
+[Bild Quelle - Tree Structure of AWS Organizations](../../Anhang/quellen.md#tree-structure-of-aws-organizations)
+
+Wie hier zu sehen ist, sind Organizations in einem "Baum" strukturiert. Auf mehreren Ebenen dieses Baums können Policy eingesetzt werden.
+
+Was Policy genau sind, werden wir später anschauen. Mit dieser Struktur kann man auch "Gruppen" erstellen um das Team Management einfacher zu machen.
+
+Das IAM (Identity and Access Management) muss weiterhin für jeden Account separat gemacht werden. Da ein einzelner Account mehrere User beinhalten kann, eine Organization aber nur Policy auf Account Ebene machen kann, muss dies mit IAM besser aufgeteilt werden.
+
+## AWS Billing & Cost Management
+
+Was ist Billing eigentlich genau und wie funktioniert es?
+
+Billing ist die eigentliche Abrechnung der genutzten AWS Dienste. Dazu gibt es verschiedene Tools und Dashboards, welche das ganze aufzeigen.
+
+Man kann die vergangenen Abrechnungen anschauen, oder Forecasts für die erwarteten Kosten, sollte man AWS Services weiterhin so nutzen wie in diesem Moment.
+
+![Billing Stats](../../Ressourcen/Bilder/AWS_Bilder/billing/billing_dashboard.jpg)
+
+[Bild Quelle - Billing Stats](../../Anhang/quellen.md#billing-stats)
+
+Hier zum Beispiel, ein Dashboard für die momentanen Kosten, verglichen mit den Vormonaten und eine Aufteilung auf die einzelnen AWS Dienste.
+
+Für diese einzelnen Werte gibt es noch fortführende Dashboards, welche das ganze noch granularer aufteilen und darstellen können. Das Grundprinzip habe ich verstanden, und gehe nicht weiter auf diese Dashboards ein.
+
+## Technical Support Models
+
+AWS bietet verschiedene Tools und Dienste, für einen optimalen Support. 
+
+* AWS Support Concierge, für generelle Account Hilfe.
+* AWS Trusted Advisor, für Best Practices.
+* Technical Account Manager, für proaktive Hilfe beim Setup.
+
+Wichtiger sind dabei die "Support Plans" welche einen geschichteten Support darstellen und mehr kosten, umso höher die Support Stufe ist. 
+
+![Support Plans](../../Ressourcen/Bilder/AWS_Bilder/support/support_plans.jpg)
+
+[Bild Quelle - Support Plans](../../Anhang/quellen.md#support-plans)
+
+![Reaction Times](../../Ressourcen/Bilder/AWS_Bilder/support/reaction_time.jpg)
+
+[Bild Quelle - Reaction Times](../../Anhang/quellen.md#reaction-times)
+
+Diese Listen sind ziemlich selbsterklärend und benötigen keine weiteren Ausführungen.
+
 -----
 
 [Zurück zum Unterverzeichnis](../README.md)

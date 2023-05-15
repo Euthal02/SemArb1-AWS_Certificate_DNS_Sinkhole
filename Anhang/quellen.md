@@ -56,6 +56,22 @@ Seite 20, <https://awsacademy.instructure.com/courses/40895/modules/items/351065
 
 Seite 22, <https://awsacademy.instructure.com/courses/40895/modules/items/3510657>
 
+### Tree Structure of AWS Organizations
+
+Seite 41, <https://awsacademy.instructure.com/courses/40895/modules/items/3510657>
+
+### Billing Stats
+
+Seite 49, <https://awsacademy.instructure.com/courses/40895/modules/items/3510657>
+
+### Support Plans
+
+Seite 60, <https://awsacademy.instructure.com/courses/40895/modules/items/3510657>
+
+### Reaction Times
+
+Seite 62, <https://awsacademy.instructure.com/courses/40895/modules/items/3510657>
+
 ### SCRUM overview
 
 <http://1.bp.blogspot.com/-5EC7uXfIxR8/VlhTFG2O2uI/AAAAAAAAXg0/eAT3wtpDk3s/s1600/SystemsPlus-Scrum-Image-.jpg>
