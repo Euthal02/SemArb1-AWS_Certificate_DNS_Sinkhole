@@ -80,6 +80,10 @@ Seite 12, <https://awsacademy.instructure.com/courses/40895/modules/items/351067
 
 Seite 16, <https://awsacademy.instructure.com/courses/40895/modules/items/3510678>
 
+### Services Overview
+
+Seite 20, <https://awsacademy.instructure.com/courses/40895/modules/items/3510678>
+
 ### SCRUM overview
 
 <http://1.bp.blogspot.com/-5EC7uXfIxR8/VlhTFG2O2uI/AAAAAAAAXg0/eAT3wtpDk3s/s1600/SystemsPlus-Scrum-Image-.jpg>

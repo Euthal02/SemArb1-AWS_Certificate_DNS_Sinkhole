@@ -50,6 +50,24 @@ Dieses Netzwerk besteht aus Points of Presence, welche häufiger sind als normal
 
 Diese Edge Locations dienen als Cache Service, welcher Daten näher beim User speichert. Dies verhindert längere Requests über die halbe Welt und erhöht die Kundenzufriedenheit.
 
+## AWS Services & Service Categories
+
+Wie bereits mehrfach erwähnt, bietet AWS mehrere Services an. Der Cloud Foundational Kurs wird sich auf die folgenden Kategorien fokussieren. Die einzelnen Kategorien haben alle eine spezielle Farbe, z.B. sind alle Storage Services Grün.
+
+![Service Overview](../../Ressourcen/Bilder/AWS_Bilder/services/overview.png)
+
+[Bild Quelle - Service Overview](../../Anhang/quellen.md#services-overview)
+
+* Storage Services - Grün
+* Compute Services - Orange
+* Database Services - Blau
+* Networking & Content Delivery Services - Violett
+* Security, Identity and Compliance Services - Rot
+* Cost Management Services - Hellgrün
+* Management and Governance Services - Pink
+
+Mehr zu den einzelnen Kategorien kann man [hier](https://awsacademy.instructure.com/courses/40895/modules/items/3510678) ab Seite 21 nachlesen.
+
 -----
 
 [Zurück zum Unterverzeichnis](../README.md)
