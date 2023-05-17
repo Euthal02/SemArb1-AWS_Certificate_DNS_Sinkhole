@@ -17,6 +17,8 @@ Im Kapitel Schlussteil wird das ganze Projekt kritisch hinterfragt und mögliche
 
 [1.4 Projektmethode](./projektmethode.md)
 
+[1.4.1 Sprints](./sprints.md)
+
 [1.5 Was möchte ich erreichen?](./ziele.md)
 
 [1.6 Was sind meine Risiken?](./risiken.md)

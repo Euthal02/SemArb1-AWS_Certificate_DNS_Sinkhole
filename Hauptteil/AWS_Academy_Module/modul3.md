@@ -18,7 +18,7 @@ Eine AWS Region ist eine geografische Umgebung, z.B. Nordeuropa oder Westamerika
 
 Innerhalb dieser Region, welche AWS anbietet, gibt es jeweils zwei oder mehrere Availability Zones.
 
-Innerhalb einer Region garantiert AWS eine bestimmte Bandbreite und Latenz zwischen Services. 
+Innerhalb einer Region garantiert AWS eine bestimmte Bandbreite und Latenz zwischen Services.
 
 Interregional kommunizieren AWS Regionen auf separaten Links, welche von Amazon bereitgestellt werden, die aber nicht die gleichen Konditionen haben, wie die Links innerhalb einer Region.
 
@@ -40,7 +40,7 @@ AWS geht nicht weiter darauf ein, was dies genau bedeutet.
 
 Innerhalb der Availability Zone, sind eine oder mehrere Datacenters. Diese Standorte sind offiziell nicht öffentlich und Kunden wissen nicht in welchem Datacenter ihre Daten sich befinden.
 
-Datacenter sind redundant aufgebaut, mit z.B. redundanter Stromzulieferung. 
+Datacenter sind redundant aufgebaut, mit z.B. redundanter Stromzulieferung.
 
 ### AWS Cloudfront
 

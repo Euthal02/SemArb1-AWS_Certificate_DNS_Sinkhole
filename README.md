@@ -25,6 +25,8 @@ Für meine Dokumentation nutze ich GitHub.
 
 [1.4 Projektmethode](./Einleitung/projektmethode.md)
 
+[1.4.1 Sprints](./Einleitung/sprints.md)
+
 [1.5 Was möchte ich erreichen?](./Einleitung/ziele.md)
 
 [1.6 Was sind meine Risiken?](./Einleitung/risiken.md)
