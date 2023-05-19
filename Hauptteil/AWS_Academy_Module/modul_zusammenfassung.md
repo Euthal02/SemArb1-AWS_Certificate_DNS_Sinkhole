@@ -23,6 +23,13 @@ Dieses Modul zeigt auf, was die Rechenzentren, Regionen und "Availability Zones"
 
 [Zum Modul](./modul3.md)
 
+## Modul 4
+
+Das Modul 4 behandelt Cloud Security. Wie kann man die Cloud sicher nutzen? Welche Tools bietet Amazon dazu?
+Was sind "Best Practices" von AWS?
+
+[Zum Modul](./modul4.md)
+
 -----
 
 [Zurück zum Unterverzeichnis](../README.md)

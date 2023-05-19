@@ -1,5 +1,11 @@
 # Hauptteil
 
+Im Hauptteil konzentriere ich mich auf die Zertifizierung und möchte diese erfolgreich abschliessen.
+
+Als Beweis, dass ich die Materie auch verstanden habe, möchte ich ein Nebenprojekt realisieren.
+
+Ich möchte einen DNS Sinkhole Server erstellen, welcher mir ermöglicht verschiedene Domains ins Nichts zu routen.
+
 ## Unterverzeichnis
 
 [Modulzusammenfassung](AWS_Academy_Module/modul_zusammenfassung.md)

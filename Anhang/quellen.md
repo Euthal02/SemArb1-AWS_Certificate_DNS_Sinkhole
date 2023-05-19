@@ -84,6 +84,22 @@ Seite 16, <https://awsacademy.instructure.com/courses/40895/modules/items/351067
 
 Seite 20, <https://awsacademy.instructure.com/courses/40895/modules/items/3510678>
 
+### Shared Responsibility Model
+
+Seite 8, <https://awsacademy.instructure.com/courses/40895/modules/items/3510712>
+
+### Security OF the Cloud
+
+Seite 9, <https://awsacademy.instructure.com/courses/40895/modules/items/3510712>
+
+### Security IN the Cloud
+
+Seite 10, <https://awsacademy.instructure.com/courses/40895/modules/items/3510712>
+
+### Policies
+
+Seite 27, <https://awsacademy.instructure.com/courses/40895/modules/items/3510712>
+
 ### SCRUM overview
 
 <http://1.bp.blogspot.com/-5EC7uXfIxR8/VlhTFG2O2uI/AAAAAAAAXg0/eAT3wtpDk3s/s1600/SystemsPlus-Scrum-Image-.jpg>
