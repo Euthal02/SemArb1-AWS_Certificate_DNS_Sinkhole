@@ -30,6 +30,12 @@ Was sind "Best Practices" von AWS?
 
 [Zum Modul](./modul4.md)
 
+## Modul 5
+
+Networking und Content Delivery wird im Modul 5 bearbeitet. Das beinhaltet verschiedene Produkte von AWS wie z.B. CloudFront, VPC und Route53. Das Thema VPC wir genauer betrachtet, da dies das eigentliche Networking der virtuellen Server ist.
+
+[Zum Modul](./modul5.md)
+
 -----
 
 [Zurück zum Unterverzeichnis](../README.md)
