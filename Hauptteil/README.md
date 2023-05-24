@@ -8,6 +8,8 @@ Ich möchte einen DNS Sinkhole Server erstellen, welcher mir ermöglicht verschi
 
 ## Unterverzeichnis
 
+### AWS Module
+
 [Modulzusammenfassung](AWS_Academy_Module/modul_zusammenfassung.md)
 
 [Erfahrungen Modul 1](AWS_Academy_Module/modul1.md)
@@ -29,6 +31,14 @@ Ich möchte einen DNS Sinkhole Server erstellen, welcher mir ermöglicht verschi
 [Erfahrungen Modul 9](AWS_Academy_Module/modul9.md)
 
 [Erfahrungen Modul 10](AWS_Academy_Module/modul10.md)
+
+### Nebenprojekt
+
+[Nebenprojekt - als ganzes](./Nebenprojekt/nebenprojekt.md)
+
+[GMail Alias und Biling Alert](./Nebenprojekt/gmail-alias_billing-alarm.md)
+
+[IAM User](./Nebenprojekt/iam_user_erstellen.md)
 
 -----
 

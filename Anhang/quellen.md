@@ -100,6 +100,10 @@ Seite 10, <https://awsacademy.instructure.com/courses/40895/modules/items/351071
 
 Seite 27, <https://awsacademy.instructure.com/courses/40895/modules/items/3510712>
 
+### VPC Firewalls
+
+Seite 42, <https://awsacademy.instructure.com/courses/40895/modules/items/3510753>
+
 ### SCRUM overview
 
 <http://1.bp.blogspot.com/-5EC7uXfIxR8/VlhTFG2O2uI/AAAAAAAAXg0/eAT3wtpDk3s/s1600/SystemsPlus-Scrum-Image-.jpg>
@@ -140,6 +144,14 @@ Das reicht von Tools, die ich nutzen kann, bis zu Webseiten, bei welchen ich mir
 ### Pi Hole Manual
 
 <https://medium.com/@dion315/setting-up-a-free-pi-hole-on-aws-c24511888973>
+
+### IAM Benutzer erstellen - Marcello Calisto
+
+<https://web.microsoftstream.com/video/58b96b9e-2d8f-485d-8339-6507e3317ee3?list=studio>
+
+### GMail Alias und Billing Alarm - Marcello Calisto
+
+<https://web.microsoftstream.com/video/7ef8b980-b3bb-479e-9bdc-e6ac4f60a626?list=studio>
 
 -----
 

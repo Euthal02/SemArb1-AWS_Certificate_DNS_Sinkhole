@@ -37,6 +37,10 @@ Für meine Dokumentation nutze ich GitHub.
 
 [2.1 Was mache ich als Nebenprojekt](./Hauptteil/Nebenprojekt/nebenprojekt.md)
 
+[2.2 GMail Alias und Biling Alert](./Hauptteil/Nebenprojekt/gmail-alias_billing-alarm.md)
+
+[2.3 IAM User](./Hauptteil/Nebenprojekt/iam_user_erstellen.md)
+
 [2.2 AWS Module - Zusammenfassung](./Hauptteil/AWS_Academy_Module/modul_zusammenfassung.md)
 
 [2.2.1 AWS Academy Modul 1](./Hauptteil/AWS_Academy_Module/modul1.md)
