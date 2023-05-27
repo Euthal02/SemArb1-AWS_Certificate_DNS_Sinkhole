@@ -36,7 +36,7 @@ Ich möchte einen DNS Sinkhole Server erstellen, welcher mir ermöglicht verschi
 
 [Nebenprojekt - als ganzes](./Nebenprojekt/nebenprojekt.md)
 
-[GMail Alias und Biling Alert](./Nebenprojekt/gmail-alias_billing-alarm.md)
+[GMail Alias und Billing Alert](./Nebenprojekt/gmail-alias_billing-alarm.md)
 
 [IAM User](./Nebenprojekt/iam_user_erstellen.md)
 

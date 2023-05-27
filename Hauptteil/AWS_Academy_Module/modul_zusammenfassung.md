@@ -36,6 +36,13 @@ Networking und Content Delivery wird im Modul 5 bearbeitet. Das beinhaltet versc
 
 [Zum Modul](./modul5.md)
 
+## Modul 6
+
+Im Modul 6 werden die Compute Services genauer angeschaut. Im besonderen EC2 sowie Lambda und Elastic Beanstalk.
+AWS Services auch unter sich vergleicht und Vor- / Nachteile hervorgehoben. Daraus kann ich im Anschluss evaluieren, für welche Anwendung welcher Service passt.
+
+[Zum Modul](./modul6.md)
+
 -----
 
 [Zurück zum Unterverzeichnis](../README.md)

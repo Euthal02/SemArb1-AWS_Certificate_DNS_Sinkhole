@@ -104,6 +104,14 @@ Seite 27, <https://awsacademy.instructure.com/courses/40895/modules/items/351071
 
 Seite 42, <https://awsacademy.instructure.com/courses/40895/modules/items/3510753>
 
+### Compute Overview
+
+Seite 8, <https://awsacademy.instructure.com/courses/40895/modules/items/3510835>
+
+### Load Types
+
+Seite 55, <https://awsacademy.instructure.com/courses/40895/modules/items/3510835>
+
 ### SCRUM overview
 
 <http://1.bp.blogspot.com/-5EC7uXfIxR8/VlhTFG2O2uI/AAAAAAAAXg0/eAT3wtpDk3s/s1600/SystemsPlus-Scrum-Image-.jpg>
