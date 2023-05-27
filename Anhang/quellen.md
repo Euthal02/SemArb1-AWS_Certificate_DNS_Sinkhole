@@ -153,11 +153,15 @@ Das reicht von Tools, die ich nutzen kann, bis zu Webseiten, bei welchen ich mir
 
 <https://medium.com/@dion315/setting-up-a-free-pi-hole-on-aws-c24511888973>
 
+### GMail ALias
+
+<https://gitlab.com/ser-cal/cal_aws-account>
+
 ### IAM Benutzer erstellen - Marcello Calisto
 
 <https://web.microsoftstream.com/video/58b96b9e-2d8f-485d-8339-6507e3317ee3?list=studio>
 
-### GMail Alias und Billing Alarm - Marcello Calisto
+### Account Alias und Billing Alarm - Marcello Calisto
 
 <https://web.microsoftstream.com/video/7ef8b980-b3bb-479e-9bdc-e6ac4f60a626?list=studio>
 
