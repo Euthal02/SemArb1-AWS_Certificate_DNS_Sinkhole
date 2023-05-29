@@ -43,6 +43,12 @@ AWS Services auch unter sich vergleicht und Vor- / Nachteile hervorgehoben. Dara
 
 [Zum Modul](./modul6.md)
 
+## Modul 7
+
+In diesem Modul werden Storage Services genauer angeschaut. 
+
+[Zum Modul](./modul7.md)
+
 -----
 
 [Zurück zum Unterverzeichnis](../README.md)
