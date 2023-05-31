@@ -11,14 +11,14 @@ In einem zweiten Schritt wird einem AWS näher gebracht.
 
 ## Modul 2
 
-Das zweite Modul nimmt das "Billing", also die Verrechnungen der Nutzung auf AWS durch. 
+Das zweite Modul nimmt das "Billing", also die Verrechnungen der Nutzung auf AWS durch.
 Zusätzlich dazu werden "Organizations" und der Pricing Calculator vorgestellt.
 
 [Zum Modul](./modul2.md)
 
 ## Modul 3
 
-Im dritten Modul wird der Aufbau der AWS Infrastruktur nähergebracht. 
+Im dritten Modul wird der Aufbau der AWS Infrastruktur nähergebracht.
 Dieses Modul zeigt auf, was die Rechenzentren, Regionen und "Availability Zones" genau sind.
 
 [Zum Modul](./modul3.md)
@@ -45,7 +45,7 @@ AWS Services auch unter sich vergleicht und Vor- / Nachteile hervorgehoben. Dara
 
 ## Modul 7
 
-In diesem Modul werden Storage Services genauer angeschaut. 
+In diesem Modul werden Storage Services genauer angeschaut. Insbesondere in Verbindung mit der EC2 Instanz.
 
 [Zum Modul](./modul7.md)
 

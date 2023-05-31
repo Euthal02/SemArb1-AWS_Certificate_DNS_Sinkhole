@@ -148,3 +148,5 @@ Diese Perspektive sorgt für die erfolgreiche Integration der IT in die Struktur
 -----
 
 [Zurück zum Unterverzeichnis](../README.md)
+
+[Zum nächsten Modul](./modul2.md)

@@ -71,3 +71,5 @@ Mehr zu den einzelnen Kategorien kann man [hier](https://awsacademy.instructure.
 -----
 
 [Zurück zum Unterverzeichnis](../README.md)
+
+[Zum nächsten Modul](./modul4.md)

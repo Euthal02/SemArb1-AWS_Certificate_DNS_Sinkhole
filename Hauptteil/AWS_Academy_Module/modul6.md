@@ -18,10 +18,11 @@ Die nicht markierten Services sind:
 - AWS Serverless Application Repository.
 
 Alle Dienste können in vier Kategorien eingeteilt werden.
-* IaaS, für Hardware Virtualisierung.
-* Serverless Computing, für einfache Dienste - OneTime Scripts.
-* Container Based Computing, ähnlich IaaS, einfach ohne das OS aufsetzen zu müssen.
-* PaaS, für Web Services.
+
+- IaaS, für Hardware Virtualisierung.
+- Serverless Computing, für einfache Dienste - OneTime Scripts.
+- Container Based Computing, ähnlich IaaS, einfach ohne das OS aufsetzen zu müssen.
+- PaaS, für Web Services.
 
 ## Amazon EC2
 
@@ -31,7 +32,7 @@ Diese werde ich auch nutzen.
 
 Wenn ein Service wie EC2 mit einem S3 Bucket interagieren soll, und dies nicht über das Internet gehen soll, sondern die internen AWS Möglichkeiten nutzen, so muss der EC2 Instanz eine Rolle zugewiesen werden.
 
-Jede Instanz kann über sich selbst Metadaten nachschauen. Über einen Webbrowser, kann die URL http://169.254.169.254/latest/meta-data/ abgerufen werden, welche die Metadaten zur Verfügung stellt.
+Jede Instanz kann über sich selbst Metadaten nachschauen. Über einen Webbrowser, kann die URL <http://169.254.169.254/latest/meta-data/> abgerufen werden, welche die Metadaten zur Verfügung stellt.
 
 CloudWatch bietet eine integrierte Möglichkeit die VM Metrics nachzusehen.
 
@@ -46,9 +47,9 @@ Diese Cloud-Computing Types eignen sich am besten für diese spezifische Workloa
 
 Nebst dieser Optimization, gibt es noch folgende Ratschläge.
 
-* die richtige Grösse wählen, sollte die Instance zu viel Power alloziert haben, kostet dies mehr.
-* Elastische Workloads einsetzen, z.B. für Webserver nicht Überdimensionieren, sondern die Elastizitätsprodukte von Amazon nutzen, um die Instances zu skalieren.
- 
+- die richtige Grösse wählen, sollte die Instance zu viel Power alloziert haben, kostet dies mehr.
+- Elastische Workloads einsetzen, z.B. für Webserver nicht Überdimensionieren, sondern die Elastizitätsprodukte von Amazon nutzen, um die Instances zu skalieren.
+
 ## Container Services
 
 AWS bietet verschiedene Container Services, welche es ermöglichen das Betriebssystem zu virtualisieren.
@@ -69,7 +70,7 @@ Mit Lambda können einfache Code Snippets ausgeführt werden, ohne das ein Serve
 
 Die Funktionen können zeitbasiert getriggert werden, oder auf ein bestimmtes Event hin.
 
-Das Erstellen der Funktionen ist gratis, erst das Ausführen kostet. 
+Das Erstellen der Funktionen ist gratis, erst das Ausführen kostet.
 
 Man kann Lambda mit Cronjobs vergleichen.
 
@@ -80,3 +81,5 @@ Kann als Erweiterung von Lambda angesehen werden. Man lädt Code hoch und AWS er
 -----
 
 [Zurück zum Unterverzeichnis](../README.md)
+
+[Zum nächsten Modul](./modul7.md)

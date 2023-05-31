@@ -81,7 +81,7 @@ Zusätzlich gibt es noch Ressource Based Policies, welche in die umgekehrte Rich
 
 ### Rollen
 
-Rollen sind ähnlich wie User, insofern das sie Policies assigned bekommen. 
+Rollen sind ähnlich wie User, insofern das sie Policies assigned bekommen.
 
 User können dann einzelne Rollen wie einen Hut aufsetzen und diese Rolle ausüben.
 
@@ -113,7 +113,7 @@ Cognito bietet ein User Verwaltungstool, welches Unternehmen erlaubt Ihren Kunde
 
 ### AWS Shields
 
-Mit AWS Shields kann man AWS Dienste gegen DDoS schützen. 
+Mit AWS Shields kann man AWS Dienste gegen DDoS schützen.
 
 ### Daten sichern
 
@@ -124,3 +124,5 @@ Sie empfehlen für jegliche Daten im Netzverkehr immer HTTPS (sprich TLS) zu nut
 -----
 
 [Zurück zum Unterverzeichnis](../README.md)
+
+[Zum nächsten Modul](./modul5.md)

@@ -2,7 +2,7 @@
 
 Es werden zwar keine direkten Zahlen genannt, da dies wie erwähnt sehr dynamisch ist, jedoch finde ich dieses Modul sehr wichtig.
 
-Die Abrechnung der Kosten im Vergleich zu den Einnahmen eines Unternehmes ist sehr wichtig. 
+Die Abrechnung der Kosten im Vergleich zu den Einnahmen eines Unternehmes ist sehr wichtig.
 
 Daher ist es auch wichtig, dass man weiss wie diese Abrechnung aufgebaut ist.
 
@@ -10,10 +10,9 @@ Daher ist es auch wichtig, dass man weiss wie diese Abrechnung aufgebaut ist.
 
 Die Kosten für die AWS Nutzung werden aus 3 Komponenten errechnet.
 
-* Compute Power, basierend auf Nutzung in Stunden/Sekunden. Die Kosten variieren immer aufgrund der unterschiedlichen Instanz Typen. (Sprich unterschiedliche CPUs) 
+* Compute Power, basierend auf Nutzung in Stunden/Sekunden. Die Kosten variieren immer aufgrund der unterschiedlichen Instanz Typen. (Sprich unterschiedliche CPUs)
 * Storage, Preise per GB.
 * Data Transfer, Outbound traffic kostet, Inbound traffic ist grundsätzlich "Free of Charge". Wird abgerechnet pro GB.
-
 
 ### "Pay for what you use"
 
@@ -21,7 +20,7 @@ Nutzungsbasierte Abrechnung, man bekommt verrechnet, was man auch effektiv genut
 
 ### "Pay less when you reserve"
 
-Wenn man Ressourcen vor Gebrauch reserviert kann Amazon besser planen. 
+Wenn man Ressourcen vor Gebrauch reserviert kann Amazon besser planen.
 
 Durch diesen Vorteil können Sie uns einen kleinen Rabatt garantieren.
 
@@ -43,7 +42,7 @@ Sollten die vorbestimmten Preismodelle auf unser Unternehmen nicht passen, ist A
 
 ## Total Cost of Ownership (TCO)
 
-Die Abrechnung der genutzten Ressourcen zeigt noch nicht das ganze Bild. Da wir für den Vergleich mit On-Premise auch nebensächliche Kosten miteinbeziehen müssen. 
+Die Abrechnung der genutzten Ressourcen zeigt noch nicht das ganze Bild. Da wir für den Vergleich mit On-Premise auch nebensächliche Kosten miteinbeziehen müssen.
 
 Wie z.B. die ersparte Stromrechnung, weniger Personalkosten uns so weiter.
 
@@ -110,13 +109,13 @@ Für diese einzelnen Werte gibt es noch fortführende Dashboards, welche das gan
 
 ## Technical Support Models
 
-AWS bietet verschiedene Tools und Dienste, für einen optimalen Support. 
+AWS bietet verschiedene Tools und Dienste, für einen optimalen Support.
 
 * AWS Support Concierge, für generelle Account Hilfe.
 * AWS Trusted Advisor, für Best Practices.
 * Technical Account Manager, für proaktive Hilfe beim Setup.
 
-Wichtiger sind dabei die "Support Plans" welche einen geschichteten Support darstellen und mehr kosten, umso höher die Support Stufe ist. 
+Wichtiger sind dabei die "Support Plans" welche einen geschichteten Support darstellen und mehr kosten, umso höher die Support Stufe ist.
 
 ![Support Plans](../../Ressourcen/Bilder/AWS_Bilder/support/support_plans.jpg)
 
@@ -131,3 +130,5 @@ Diese Listen sind ziemlich selbsterklärend und benötigen keine weiteren Ausfü
 -----
 
 [Zurück zum Unterverzeichnis](../README.md)
+
+[Zum nächsten Modul](./modul3.md)
