@@ -49,6 +49,10 @@ In diesem Modul werden Storage Services genauer angeschaut. Insbesondere in Verb
 
 [Zum Modul](./modul7.md)
 
+## Modul 8
+
+Das Modul 8 behandelt die AWS Databases genauer. Es wird gezeigt wie die AWS Datenbanken sich mit anderen Diensten integriert.
+
 -----
 
 [Zurück zum Unterverzeichnis](../README.md)
