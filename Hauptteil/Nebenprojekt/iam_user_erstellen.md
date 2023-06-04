@@ -12,6 +12,8 @@ https://mka-semesterarbeit.signin.aws.amazon.com/console
 
 [Original Anleitung - Quelle](../../Anhang/quellen.md#iam-benutzer-erstellen---marcello-calisto)
 
+Mit diesem IAM Nutzer kann ich nun beginnen [einen EC2 Server zu erstellen.](./ec2_server_erstellen.md)
+
 -----
 
 [Zurück zum Unterverzeichnis](../README.md)

@@ -1,5 +1,7 @@
 # Nebenprojekt
 
+## AWS Account
+
 Für das Nebenprojekt habe ich mir einen AWS Free Tier Account erstellt.
 
 [Mehr Infos in diesem GitHub Task.](https://github.com/Euthal02/SemArb1-AWS_Certificate_DNS_Sinkhole/issues/16)
@@ -15,6 +17,18 @@ Wie ich in [Modul 4](../AWS_Academy_Module/modul4.md#iam-user-sicherer-machen) g
 Diesen User kann ich anschliessend für alle Aufgaben nutzen.
 
 [IAM User erstellen](./iam_user_erstellen.md)
+
+## EC2 Server erstellen
+
+Den EC2 Server habe ich folgendermassen installiert.
+
+[EC2 Server erstellen](./ec2_server_erstellen.md)
+
+## PiHole installieren
+
+Auf diesem EC2 Server kann nun die PiHole Software installiert werden.
+
+[PiHole installieren](./pihole_installieren.md)
 
 -----
 
