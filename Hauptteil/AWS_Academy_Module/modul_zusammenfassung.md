@@ -53,6 +53,14 @@ In diesem Modul werden Storage Services genauer angeschaut. Insbesondere in Verb
 
 Das Modul 8 behandelt die AWS Databases genauer. Es wird gezeigt wie die AWS Datenbanken sich mit anderen Diensten integriert.
 
+[Zum Modul](./modul8.md)
+
+## Modul 9
+
+In diesem Modul werden die Themen AWS Well-Architekted Framework, AWS Trusted Advisor und Hochverfügbarkeit / Verlässlichkeit behandlet.
+
+[Zum Modul](./modul9.md)
+
 -----
 
 [Zurück zum Unterverzeichnis](../README.md)
