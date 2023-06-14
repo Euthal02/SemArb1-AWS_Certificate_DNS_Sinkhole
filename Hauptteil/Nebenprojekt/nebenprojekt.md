@@ -42,6 +42,12 @@ Nachdem ich verifiziert habe, dass der DNS Server funktioniert, möchte ich sein
 
 [Werbeblocker testen](./werbeblocker_testen.md)
 
+## Handbuch schreiben
+
+Dieser Service soll möglichst vielen offen stehen. Ich möchte also ein Handbuch für Windows Nutzer schreiben, wie sie diesen Service nutzen können.
+
+[Handbuch schreiben](./handbuch.md)
+
 -----
 
 [Zurück zum Unterverzeichnis](../README.md)
