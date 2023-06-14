@@ -40,6 +40,18 @@ Ich möchte einen DNS Sinkhole Server erstellen, welcher mir ermöglicht verschi
 
 [IAM User](./Nebenprojekt/iam_user_erstellen.md)
 
+[EC2 Server erstellen](./Nebenprojekt/ec2_server_erstellen.md)
+
+[PiHole installiere](./Nebenprojekt/pihole_installieren.md)
+
+[DNS Service testen](./Nebenprojekt/dns_abfragen.md)
+
+[Werbeblocker testen](./Nebenprojekt/werbeblocker_testen.md)
+
+[Handbuch schreiben](./Nebenprojekt/handbuch.md)
+
+[Nebenprojektabschluss](./Nebenprojekt/projektabschluss.md)
+
 -----
 
 [Zurück zum Hauptverzeichnis](../README.md)

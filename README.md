@@ -35,33 +35,45 @@ Für meine Dokumentation nutze ich GitHub.
 
 [2. Hauptteil](./Hauptteil/README.md)
 
-[2.1 Was mache ich als Nebenprojekt](./Hauptteil/Nebenprojekt/nebenprojekt.md)
+[2.1 AWS Module - Zusammenfassung](./Hauptteil/AWS_Academy_Module/modul_zusammenfassung.md)
 
-[2.2 GMail Alias und Biling Alert](./Hauptteil/Nebenprojekt/gmail-alias_billing-alarm.md)
+[2.1.1 AWS Academy Modul 1](./Hauptteil/AWS_Academy_Module/modul1.md)
 
-[2.3 IAM User](./Hauptteil/Nebenprojekt/iam_user_erstellen.md)
+[2.1.2 AWS Academy Modul 2](./Hauptteil/AWS_Academy_Module/modul2.md)
 
-[2.2 AWS Module - Zusammenfassung](./Hauptteil/AWS_Academy_Module/modul_zusammenfassung.md)
+[2.1.3 AWS Academy Modul 3](./Hauptteil/AWS_Academy_Module/modul3.md)
 
-[2.2.1 AWS Academy Modul 1](./Hauptteil/AWS_Academy_Module/modul1.md)
+[2.1.4 AWS Academy Modul 4](./Hauptteil/AWS_Academy_Module/modul4.md)
 
-[2.2.2 AWS Academy Modul 2](./Hauptteil/AWS_Academy_Module/modul2.md)
+[2.1.5 AWS Academy Modul 5](./Hauptteil/AWS_Academy_Module/modul5.md)
 
-[2.2.3 AWS Academy Modul 3](./Hauptteil/AWS_Academy_Module/modul3.md)
+[2.1.6 AWS Academy Modul 6](./Hauptteil/AWS_Academy_Module/modul6.md)
 
-[2.2.4 AWS Academy Modul 4](./Hauptteil/AWS_Academy_Module/modul4.md)
+[2.1.7 AWS Academy Modul 7](./Hauptteil/AWS_Academy_Module/modul7.md)
 
-[2.2.5 AWS Academy Modul 5](./Hauptteil/AWS_Academy_Module/modul5.md)
+[2.1.8 AWS Academy Modul 8](./Hauptteil/AWS_Academy_Module/modul8.md)
 
-[2.2.6 AWS Academy Modul 6](./Hauptteil/AWS_Academy_Module/modul6.md)
+[2.1.9 AWS Academy Modul 9](./Hauptteil/AWS_Academy_Module/modul9.md)
 
-[2.2.7 AWS Academy Modul 7](./Hauptteil/AWS_Academy_Module/modul7.md)
+[2.1.10 AWS Academy Modul 10](./Hauptteil/AWS_Academy_Module/modul10.md)
 
-[2.2.8 AWS Academy Modul 8](./Hauptteil/AWS_Academy_Module/modul8.md)
+[2.2 Nebenprojekt](./Hauptteil/Nebenprojekt/nebenprojekt.md)
 
-[2.2.9 AWS Academy Modul 9](./Hauptteil/AWS_Academy_Module/modul9.md)
+[2.2.1 GMail Alias und Biling Alert](./Hauptteil/Nebenprojekt/gmail-alias_billing-alarm.md)
 
-[2.2.10 AWS Academy Modul 10](./Hauptteil/AWS_Academy_Module/modul10.md)
+[2.2.2 IAM User](./Hauptteil/Nebenprojekt/iam_user_erstellen.md)
+
+[2.2.3 EC2 Server erstellen](./Hauptteil/Nebenprojekt/ec2_server_erstellen.md)
+
+[2.2.4 PiHole installiere](./Hauptteil/Nebenprojekt/pihole_installieren.md)
+
+[2.2.5 DNS Service testen](./Hauptteil/Nebenprojekt/dns_abfragen.md)
+
+[2.2.6 Werbeblocker testen](./Hauptteil/Nebenprojekt/werbeblocker_testen.md)
+
+[2.2.7 Handbuch schreiben](./Hauptteil/Nebenprojekt/handbuch.md)
+
+[2.2.8 Nebenprojektabschluss](./Hauptteil/Nebenprojekt/projektabschluss.md)
 
 -----
 
