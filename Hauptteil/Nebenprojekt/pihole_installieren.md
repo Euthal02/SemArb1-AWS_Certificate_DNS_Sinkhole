@@ -105,7 +105,7 @@ Address: 212.117.214.100
 
 Ich verzichte im weiteren Verlauf auf eine Elastic IP, da ich den Server wohl nicht mehr neu aufsetzen werde.
 
-Mit diesem Request habe ich also bewiesen, dass DNS Abfragen möglich sind und werde nun zum Testing übergehen.
+Mit diesem Request habe ich also bewiesen, dass DNS Abfragen möglich sind und werde [nun zum Testing übergehen.](./dns_abfragen.md)
 
 -----
 
