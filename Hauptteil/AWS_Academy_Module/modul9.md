@@ -50,8 +50,41 @@ Dieser Punkt wird genutzt um die Verfügbarkeit / Verlässlichkeit einer Cloud U
 
 ### Performance Efficiency
 
+Genutzte Ressourcen sollten effizient genutzt werden. Dadurch kann der Service besser angeboten werden und Kosten können gespart werden.
 
+* Democratize advanced technologies, nicht jede Technologie muss von unserem Team im Griff sein. Man kann auch neuere Technoligen konsumieren und wie einen Service benutzen.
+* Go global in minutes, anstatt manuell einen Service an einem anderen Ort aufzubauen kann man mit AWS innerhalb von Minuten weltweit Services zur Verfügung stellen.
+* Use serverless architectures, wo immer möglich sollten PaaS und SaaS genutzt werden, anstatt IaaS und On-Premise. Das verhindert das Ressourcen intesive aufsetzen und verwalten von Betriebssystemen.
+* Experiment more often
+* Consider mechanical sympathy, man sollte immer die Technologie nutzen, welche am besten zu meinem Use-Case passt.
+
+### Cost Optimization
+
+Der "Cost Optimization" Punkt legt Fokus auf den Nutzen der kostengünstigsten Technologie.
+
+* Adopt a consumption model, man sollte die Möglichkeit der Cloud nutzen, die Ressourcen anhand meines Loads zu scalen. Wenn man weiterhin versucht zukünftige Requirements zu erraten, wird man mehr Kosten haben, alseigentlich notwendig.
+* Measure overall efficiency, wenn man die ganze Effizienz im Blick hat, also den Gewinn mit dem Aufwand konstant vergleicht, fallen Verbesserungen schneller auf und können besser gemessen werden.
+* Stop spending money on undifferentiated heavy lifting, wie bereits öfters erwähnt, muss man mit AWS kein Datacenter mehr unterhalten und kann sich diese Kosten sparen.
+* Analyze and attribute expenditure, wenn man zusätzlich noch die einzelnen Kostenpunkte im Griff hat, kann man einfacher Massnahmen ergreifen um diese Kostenpunkte zu senken.
+
+## Reliability & High Availability
+
+Die Verlässlichkeit eines System ist ein Messwerkzeug für die Messung ob ein System in der Lage ist, den Service zu liefern wann immer der Kunde dies möchte. Dies lässt sich mit dem MTBF (Mean time between failures) Wert beziffern. Nebst dem MTBF gibt es noch den Wert MTTF (Mean Time to Failure) und MTTR (Mean Time to Repair). MTTR und MTTF zusammengerechnet ergibt den MTBF.
+
+Um die Verfügbarkeit eines System zu beziffern, nehmen wir die Gesamtlaufzeit des Systems und vergleichen diese mit der eigentlichen Zeit in welcher das Programm lief. Dieser Wet sollte möglichst nah bei 100% sein. Je näher an 100% dieser ist, um so verlässlicher ist unser Service. Abgekürzt wird dies meist mit der "Number of 9s", also fünf 9s wären 99.999% Verfügbarkeit.
+
+## AWS Trusted Advisors
+
+Mit dem Well-Architected Framework Design Prinzip hat man ein statisches Handbuch um eine "Best Practice" Cloud Umgebung aufzubauen. Mit dem Trusted Advisor kann man dynamische Feedbacks erhalten und Verbesserungsvorschläge anschauen. Diese sind in 5 Kategorien eingeteilt.
+
+* Cost Optimization
+* Performance
+* Security
+* Fault Tolerance
+* Service Limits
 
 -----
 
 [Zurück zum Unterverzeichnis](../README.md)
+
+[Zum nächsten Modul](./modul10.md)
