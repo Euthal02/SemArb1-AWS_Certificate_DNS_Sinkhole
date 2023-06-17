@@ -61,6 +61,12 @@ In diesem Modul werden die Themen AWS Well-Architekted Framework, AWS Trusted Ad
 
 [Zum Modul](./modul9.md)
 
+## Modul 10
+
+Das zehnte Modul behandelt vor allem Loadbalancing und Autoscaling.
+
+[Zum Modul](./modul10.md)
+
 -----
 
 [Zurück zum Unterverzeichnis](../README.md)
