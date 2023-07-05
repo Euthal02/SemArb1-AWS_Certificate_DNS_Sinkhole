@@ -1,4 +1,4 @@
-# GMail, Alias & Billing Alarm
+# 2.2.1 GMail, Alias & Billing Alarm
 
 Bevor ich AWS nutzen kann, muss ich noch einige Vorbereitungen treffen.
 
@@ -39,5 +39,7 @@ Die möchte ich in Zukunft verhindern.
 Als Nächstes muss ich [einen IAM erstellen.](./iam_user_erstellen.md)
 
 -----
+
+[2.2.2 IAM User](./iam_user_erstellen.md)
 
 [Zurück zum Unterverzeichnis](../README.md)

@@ -1,4 +1,4 @@
-# Modul 1
+# 2.1.1 Modul 1
 
 ## Introduction to cloud computing
 
@@ -147,6 +147,6 @@ Diese Perspektive sorgt für die erfolgreiche Integration der IT in die Struktur
 
 -----
 
-[Zurück zum Unterverzeichnis](../README.md)
+[2.1.2 Erfahrungen Modul 2](./modul2.md)
 
-[Zum nächsten Modul](./modul2.md)
+[Zurück zum Unterverzeichnis](../README.md)

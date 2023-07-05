@@ -79,9 +79,9 @@ Für meine Dokumentation nutze ich GitHub.
 
 [3. Abschluss](./Schlussteil/README.md)
 
-[3.1 Habe ich meine Ziele erreicht?](./Schlussteil/erreichte_ziele.md)
+[3.1 Was waren meine Probleme?](./Schlussteil/probleme.md)
 
-[3.2 Was waren meine Probleme?](./Schlussteil/probleme.md)
+[3.2 Habe ich meine Ziele erreicht?](./Schlussteil/erreichte_ziele.md)
 
 [3.3 Schlusswort](./Schlussteil/schlusswort.md)
 

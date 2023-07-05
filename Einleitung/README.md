@@ -1,4 +1,4 @@
-# Einleitung
+# 1. Einleitung
 
 Allgemeine Fragen / Problemstellung und Erwartungen werden im Kapitel Einleitung bearbeitet.
 Hier sollten sich alle Fragen bezüglich eventuellen SOLL Zuständen klären.
@@ -24,5 +24,7 @@ Im Kapitel Schlussteil wird das ganze Projekt kritisch hinterfragt und mögliche
 [1.6 Was sind meine Risiken?](./risiken.md)
 
 -----
+
+[2. Hauptteil](../Hauptteil/README.md)
 
 [Zurück zum Hauptverzeichnis](../README.md)

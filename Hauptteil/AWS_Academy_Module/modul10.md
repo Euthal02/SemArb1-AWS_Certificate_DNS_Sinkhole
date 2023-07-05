@@ -1,4 +1,4 @@
-# Modul 10
+# 2.1.10 Modul 10
 
 ## Elastic Load Balancing
 
@@ -32,8 +32,8 @@ Darin kann unter anderem mit einem AMI gearbeitet werden, welche den Service ber
 
 Auto Scaling kann unter anderem mittels CloudWatch getriggert werden, wenn z.B. die CPU Werte einer Auto Scaling Group überdurchschnittlich hoch sind.
 
-
-
 -----
+
+[2.2 Nebenprojekt](../Nebenprojekt/nebenprojekt.md)
 
 [Zurück zum Unterverzeichnis](../README.md)

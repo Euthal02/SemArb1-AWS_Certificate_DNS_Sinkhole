@@ -1,4 +1,4 @@
-# Handbuch schreiben
+# 2.2.7 Handbuch schreiben
 
 Damit dieses Tool genutzt werden kann, muss ich ein kleines Handbuch schreiben.
 
@@ -44,8 +44,6 @@ Anschliessend können alle Menüs mit "OK" bestätigt werden und die Fenster ges
 
 -----
 
-[Zum Nebenprojektabschluss](./projektabschluss.md)
-
------
+[2.2.8 Nebenprojektabschluss](./projektabschluss.md)
 
 [Zurück zum Unterverzeichnis](../README.md)

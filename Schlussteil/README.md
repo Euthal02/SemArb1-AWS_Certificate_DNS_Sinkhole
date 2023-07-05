@@ -1,12 +1,12 @@
-# Schlussteil
+# 3. Schlussteil
 
 ## Unterverzeichnis
 
-[Welche Probleme hatte ich?](./probleme.md)
+[3.1 Welche Probleme hatte ich?](./probleme.md)
 
-[Welche Ziele konnte ich erreichen?](./erreichte_ziele.md)
+[3.2 Welche Ziele konnte ich erreichen?](./erreichte_ziele.md)
 
-[Schlusswort](./schlusswort.md)
+[3.3 Schlusswort](./schlusswort.md)
 
 -----
 

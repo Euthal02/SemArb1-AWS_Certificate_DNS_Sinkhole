@@ -1,4 +1,4 @@
-# EC2 Server erstellen
+# 2.2.3 EC2 Server erstellen
 
 Für meine Semesterarbeit habe ich mir einen Standard EC2 Server aufgesetzt.
 
@@ -40,5 +40,7 @@ Um auf diese Instanz zu kommen, nutze ich auf meiner lokalen Maschine diesen Com
 Nun kann ich damit beginnen, den [PiHole zu installieren.](./pihole_installieren.md)
 
 -----
+
+[2.2.4 PiHole installiere](./pihole_installieren.md)
 
 [Zurück zum Unterverzeichnis](../README.md)

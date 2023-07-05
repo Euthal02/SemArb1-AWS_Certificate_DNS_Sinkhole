@@ -1,4 +1,4 @@
-# Modul 2
+# 2.1.2 Modul 2
 
 Es werden zwar keine direkten Zahlen genannt, da dies wie erwähnt sehr dynamisch ist, jedoch finde ich dieses Modul sehr wichtig.
 
@@ -128,7 +128,6 @@ Wichtiger sind dabei die "Support Plans" welche einen geschichteten Support dars
 Diese Listen sind ziemlich selbsterklärend und benötigen keine weiteren Ausführungen.
 
 -----
+[2.1.3 Erfahrungen Modul 3](./modul3.md)
 
 [Zurück zum Unterverzeichnis](../README.md)
-
-[Zum nächsten Modul](./modul3.md)

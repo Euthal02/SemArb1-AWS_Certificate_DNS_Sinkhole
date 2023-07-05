@@ -1,4 +1,4 @@
-# Zeitplan
+# 1.3 Zeitplan
 
 Beim Zeitplan ist zu unterscheiden zwischen dem eigentlichen SOLL Zeitplan, welcher beim Einreichungsformular eingegeben wurde, und dem IST Zeitplan.
 
@@ -29,5 +29,7 @@ Ich nutze die Funktion Issues zu Tasks konvertieren, diese Tasks können dann ei
 [Öffentlich einsehbar unter diesem Link!](https://github.com/users/Euthal02/projects/2/views/2)
 
 -----
+
+[1.4 Projektmethode](./projektmethode.md)
 
 [Zurück zum Unterverzeichnis](./README.md)

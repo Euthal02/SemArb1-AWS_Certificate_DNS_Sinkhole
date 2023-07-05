@@ -1,4 +1,4 @@
-# Projektabschluss
+# 2.2.8 Projektabschluss
 
 Ich konnte in diesem kleinen Nebenprojekt einige Ziele meines Hauptprojekts erreichen.
 
@@ -19,5 +19,7 @@ Ich muss nun als Resultat von diesem Fehlschlag folgende Kosten hinnehmen.
 ![Unvorhergesehene Kosten](../../Ressourcen/Bilder/nebenprojekt/kosten.PNG)
 
 -----
+
+[3. Nebenprojektabschluss](./projektabschluss.md)
 
 [Zurück zum Unterverzeichnis](../README.md)

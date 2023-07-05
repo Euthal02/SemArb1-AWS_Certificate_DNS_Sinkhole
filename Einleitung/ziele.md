@@ -1,4 +1,4 @@
-# Ziele (aus dem Einreicheformular)
+# 1.5 Ziele (aus dem Einreicheformular)
 
 Folgende Ziele habe ich mir gesetzt. 
 Im Abschluss an diese Arbeit werden diese Ziele noch einmal überprüft.
@@ -15,5 +15,7 @@ Im Abschluss an diese Arbeit werden diese Ziele noch einmal überprüft.
 * Free Tier Service nutzen soweit möglich.
 
 -----
+
+[1.6 Was sind meine Risiken?](./risiken.md)
 
 [Zurück zum Unterverzeichnis](./README.md)

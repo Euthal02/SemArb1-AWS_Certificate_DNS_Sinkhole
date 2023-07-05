@@ -1,4 +1,4 @@
-# Scrum Sprints
+# 1.4.1 Scrum Sprints
 
 Da ich Scrum als Hauptprojektmethode nutze, arbeite ich in Sprints.
 
@@ -36,10 +36,12 @@ Der Abschluss eines Sprints wird dabei mit der Planung des neuen kombiniert. Die
 
 ## Sprint 3
 
-[Planung für den Sprint 2](https://github.com/Euthal02/SemArb1-AWS_Certificate_DNS_Sinkhole/issues/29)
+[Planung für den Sprint 3](https://github.com/Euthal02/SemArb1-AWS_Certificate_DNS_Sinkhole/issues/29)
 
-[Abschluss Sprint 2](https://github.com/Euthal02/SemArb1-AWS_Certificate_DNS_Sinkhole/issues/30)
+[Abschluss Sprint 3](https://github.com/Euthal02/SemArb1-AWS_Certificate_DNS_Sinkhole/issues/30)
 
 -----
+
+[1.5 Was möchte ich erreichen?](./ziele.md)
 
 [Zurück zum Unterverzeichnis](./README.md)

@@ -1,4 +1,4 @@
-# Modul 7
+# 2.1.7 Modul 7
 
 ## AWS EBS
 
@@ -34,6 +34,6 @@ Einen S3 Glacier erstellt man in der AWS Console, anschliessend kann dieser aber
 
 -----
 
-[Zurück zum Unterverzeichnis](../README.md)
+[2.1.8 Erfahrungen Modul 8](./modul8.md)
 
-[Zum nächsten Modul](./modul8.md)
+[Zurück zum Unterverzeichnis](../README.md)

@@ -1,4 +1,4 @@
-# Was ist AWS?
+# 1.2 Was ist AWS?
 
 Wie bereits mehrfach angedeutet, AWS ist ein Cloud-Provider und bietet viele verschiedene Cloud Dienste an.
 
@@ -26,5 +26,7 @@ Chat-GPT bietet uns diese Zusammenfassung über AWS:
 [Quelle - Chat GPT](../Anhang/quellen.md#chat-gpt)
 
 -----
+
+[1.3 Zeitplan](./zeitplan.md)
 
 [Zurück zum Unterverzeichnis](./README.md)

@@ -1,4 +1,4 @@
-# Projektidee (aus dem Einreicheformular)
+# 1.1 Projektidee (aus dem Einreicheformular)
 
 Ich möchte die Zertifizierung von AWS abschliessen und möchte meinen Werdegang dokumentieren. Um mein Können daraufhin zu beweisen, möchte ich zusätzlich einen Service auf AWS einrichten. Als primäre Idee möchte ich einen DNS Sinkhole Service (Ad Blocker) aufbauen, sollte mir dies nicht gelingen, so möchte ich einen Wireguard Web Gateway (pers. VPN mit statischer öffentlicher IP). Dadurch kann ich garantieren, dass ich im Falle eines totalen Ausfalls meiner Fähigkeiten bei der Zertifizierung und beim Aufsetzen des Sinkhole Servers immer noch eine Alternative habe.
 
@@ -31,5 +31,7 @@ Mein sekundäres Projekt ist ein Wireguard VPN Service, welchen ich nutzen kann,
 [Bild Quelle -  Wireguard Logo](../Anhang/quellen.md#wireguard-logo)
 
 -----
+
+[1.2 Was ist AWS?](./was_ist_aws.md)
 
 [Zurück zum Unterverzeichnis](./README.md)

@@ -1,4 +1,4 @@
-# DNS Abfragen testen
+# 2.2.5 DNS Abfragen testen
 
 Ich teste meinen DNS Server indem ich ihn an einem neuen System als Haupt-DNS-Server konfiguriere.
 
@@ -56,8 +56,6 @@ Wie man im unteren Bild erkennen kann, funktioniert eine normale Abfrage tadello
 
 Als nächstes möchte ich die Werbeblocking Funktionalität testen.
 
-[Werbeblocker testen](./werbeblocker_testen.md)
-
------
+[2.2.6 Werbeblocker testen](./werbeblocker_testen.md)
 
 [Zurück zum Unterverzeichnis](../README.md)

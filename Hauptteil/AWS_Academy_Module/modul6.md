@@ -1,4 +1,4 @@
-# Modul 6
+# 2.1.6 Modul 6
 
 ## Compute Services Overview
 
@@ -80,6 +80,6 @@ Kann als Erweiterung von Lambda angesehen werden. Man lädt Code hoch und AWS er
 
 -----
 
-[Zurück zum Unterverzeichnis](../README.md)
+[2.1.7 Erfahrungen Modul 7](./modul7.md)
 
-[Zum nächsten Modul](./modul7.md)
+[Zurück zum Unterverzeichnis](../README.md)

@@ -1,4 +1,4 @@
-# Werbeblocker testen
+# 2.2.6 Werbeblocker testen
 
 Nun da ich weis, dass der DNS Server funktioniert, möchte ich testen ob dies auch einen merkbaren Unterschied beim Surfen bringt.
 
@@ -56,8 +56,6 @@ Die Standard Blockliste kann man hier finden:
 
 Mit diesen Ergebnissen setze ich mich nun daran ein Handbuch zu schreiben, damit dieser Service auch genutzt werden kann.
 
-[Handbuch schreiben](./handbuch.md)
-
------
+[2.2.7 Handbuch schreiben](./handbuch.md)
 
 [Zurück zum Unterverzeichnis](../README.md)

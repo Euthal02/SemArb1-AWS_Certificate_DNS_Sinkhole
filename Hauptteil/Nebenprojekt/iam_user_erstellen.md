@@ -1,4 +1,4 @@
-# IAM User erstellen
+# 2.2.2 IAM User erstellen
 
 Auch hier habe ich wieder dankend auf die bereitgestellte Ressource zurückgegriffen.
 
@@ -15,5 +15,7 @@ https://mka-semesterarbeit.signin.aws.amazon.com/console
 Mit diesem IAM Nutzer kann ich nun beginnen [einen EC2 Server zu erstellen.](./ec2_server_erstellen.md)
 
 -----
+
+[2.2.3 EC2 Server erstellen](./ec2_server_erstellen.md)
 
 [Zurück zum Unterverzeichnis](../README.md)

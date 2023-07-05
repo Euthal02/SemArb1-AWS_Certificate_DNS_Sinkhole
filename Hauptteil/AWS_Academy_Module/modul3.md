@@ -1,4 +1,4 @@
-# Modul 3
+# 2.1.3 Modul 3
 
 ## AWS Global Infrastructure
 
@@ -70,6 +70,6 @@ Mehr zu den einzelnen Kategorien kann man [hier](https://awsacademy.instructure.
 
 -----
 
-[Zurück zum Unterverzeichnis](../README.md)
+[2.1.4 Erfahrungen Modul 4](./modul4.md)
 
-[Zum nächsten Modul](./modul4.md)
+[Zurück zum Unterverzeichnis](../README.md)

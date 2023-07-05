@@ -1,4 +1,4 @@
-# Modul 8
+# 2.1.8 Modul 8
 
 ## Amazon RDS
 
@@ -24,6 +24,6 @@ Aurora ist die Database Engine von Amazon.
 
 -----
 
-[Zurück zum Unterverzeichnis](../README.md)
+[2.1.9 Erfahrungen Modul 9](./modul9.md)
 
-[Zum nächsten Modul](./modul9.md)
+[Zurück zum Unterverzeichnis](../README.md)

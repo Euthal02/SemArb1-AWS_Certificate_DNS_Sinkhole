@@ -1,4 +1,4 @@
-# Projektmethode
+# 1.4 Projektmethode
 
 Als Projektmethode möchte ich möglichst offene und freie Methoden nehmen.
 Ich arbeite nach einem LEAN Prinzip, plane nach SCRUM und behalte den Überblick mit KANBAN.
@@ -69,5 +69,7 @@ Ich habe 4 Boards:
 [Meine Boards sind hier zu sehen.](https://github.com/users/Euthal02/projects/2/views/1)
 
 -----
+
+[1.4.1 Sprints](./sprints.md)
 
 [Zurück zum Unterverzeichnis](./README.md)

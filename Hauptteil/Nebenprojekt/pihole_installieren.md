@@ -1,4 +1,4 @@
-# PiHole installieren
+# 2.2.4 PiHole installieren
 
 Ich bin dieser Anleitung gefolgt und konnte die PiHole Software so installieren.
 
@@ -108,5 +108,7 @@ Ich verzichte im weiteren Verlauf auf eine Elastic IP, da ich den Server wohl ni
 Mit diesem Request habe ich also bewiesen, dass DNS Abfragen möglich sind und werde [nun zum Testing übergehen.](./dns_abfragen.md)
 
 -----
+
+[2.2.5 DNS Service testen](./dns_abfragen.md)
 
 [Zurück zum Unterverzeichnis](../README.md)
