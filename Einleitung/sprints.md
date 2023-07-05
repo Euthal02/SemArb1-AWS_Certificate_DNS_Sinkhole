@@ -4,9 +4,9 @@ Da ich Scrum als Hauptprojektmethode nutze, arbeite ich in Sprints.
 
 Insgesamt haben wir 3 vorvereinbarte Sprints.
 
-* 19. April 2023 - 16. Mai 2023
-* 17. Mai 2023 - 13. Juni 2023
-* 14. Juni 2023 - 11.Juli 2023
+* `19. April 2023 - 16. Mai 2023`
+* `17. Mai 2023 - 13. Juni 2023` 
+* `14. Juni 2023 - 11.Juli 2023`
 
 Vor jedem Sprint definiere ich Ziele und arbeite im Sprint auf diese Ziel hin.
 
