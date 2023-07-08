@@ -19,7 +19,7 @@ AWS ist verantwortlich für den "as a Service" Teil von Iaas, SaaS und PaaS.
 
 Je nachdem welcher Cloud Hosting Type momentan geltend ist, ist AWS verantwortlich, dass die darunter laufende Hardware / Software sicher ist.
 
-Sie erreichen dies unter anderem durch sichere Rechenzentrum Zugänge. Keine Person, welche nicht von AWS dazu authorisiert wurde, kommt in die Rechenzentren.
+Sie erreichen dies unter anderem durch sichere Rechenzentrum Zugänge. Keine Person, welche nicht von AWS dazu authorised wurde, kommt in die Rechenzentren.
 
 ![Security OF the Cloud](../../Ressourcen/Bilder/AWS_Bilder/cloud_security/security_of_the_cloud.png)
 
@@ -49,7 +49,7 @@ IAM arbeitet mit 4 Komponenten:
 * Users (kann auch eine Applikation sein), der sich bei AWS authentifizieren kann.
 * Gruppen, welche mehreren Usern die gleichen Rechte geben.
 * Policies, die definieren welcher User was kann.
-* Roles, die man einem User für eine definierte Zeit / Aktion assignen kann. Meistens verbunden mit einer Policy.
+* Roles, die man einem User für eine definierte Zeit / Aktion assigned kann. Meistens verbunden mit einer Policy.
 
 ### Authentifikation
 

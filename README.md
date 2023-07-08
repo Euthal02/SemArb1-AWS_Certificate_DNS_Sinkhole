@@ -91,4 +91,4 @@ Für meine Dokumentation nutze ich GitHub.
 
 [4.1 Quellen](./Anhang/quellen.md)
 
-[4.2 Glossar](./Anhang/glossar.md)
+[4.2 Ressourcen](./Ressourcen)

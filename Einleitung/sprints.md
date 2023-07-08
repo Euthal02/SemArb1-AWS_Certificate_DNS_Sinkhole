@@ -2,23 +2,22 @@
 
 Da ich Scrum als Hauptprojektmethode nutze, arbeite ich in Sprints.
 
-Insgesamt haben wir 3 vorvereinbarte Sprints.
+Insgesamt haben wir 3 vor vereinbarte Sprints.
 
 * `19. April 2023 - 16. Mai 2023`
 * `17. Mai 2023 - 13. Juni 2023` 
 * `14. Juni 2023 - 11.Juli 2023`
 
-Vor jedem Sprint definiere ich Ziele und arbeite im Sprint auf diese Ziel hin.
+Vor jedem Sprint definiere ich Ziele und arbeite im Sprint auf dieses Ziel hin.
 
-Am Abschluss eines Sprints, mache ich einen kurzen Rückblick zu diesen Themen:
+Am Abschluss eines Sprints mache ich einen kurzen Rückblick zu diesen Themen:
 
 * Sprintabschluss immer schriftlich dokumentieren
 * Aktueller Entwicklungsstand ist dokumentieren
-* Vergleich zu den Projetzielen
+* Vergleich zu den Projektzielen
 * Backlog ist aktualisiert
-* Anzahl Zeichen im Repository (als Motivationsfaktor)
 
-Jede Sprintplanung und der Abschluss eines Sprint wird in einem separaten GitHub Issue gemacht.
+Jede Sprintplanung und der Abschluss eines Sprints wird in einem separaten GitHub Issue gemacht.
 
 Der Abschluss eines Sprints wird dabei mit der Planung des neuen kombiniert. Dies ermöglicht mir eine kompakte Übersicht.
 

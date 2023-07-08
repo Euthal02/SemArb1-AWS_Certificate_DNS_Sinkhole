@@ -78,6 +78,8 @@ Man kann Lambda mit Cronjobs vergleichen.
 
 Kann als Erweiterung von Lambda angesehen werden. Man lädt Code hoch und AWS erstellt die Ressourcen darunter automatisch.
 
+Der Service an sich ist gratis, die Ressourcen welche erstellt werden muss mann jedoch bezahlen.
+
 -----
 
 [2.1.7 Erfahrungen Modul 7](./modul7.md)

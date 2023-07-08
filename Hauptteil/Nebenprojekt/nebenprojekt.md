@@ -32,13 +32,13 @@ Auf diesem EC2 Server kann nun die PiHole Software installiert werden.
 
 ## DNS Abfragen testen
 
-Anschliessend kann ich die DNS Abfragen testen, indem ich ein neues System aufsetze und diesem nur meinen DNS Server angebe.
+Anschliessend kann ich die DNS Abfragen testen, indem ich ein neues System aufsetze und diesem nur meinen DNS-Server angebe.
 
 [2.2.5 DNS Abfragen testen](./dns_abfragen.md)
 
 ## Werbeblocker testen
 
-Nachdem ich verifiziert habe, dass der DNS Server funktioniert, möchte ich seine Funktionalität testen.
+Nachdem ich verifiziert habe, dass der DNS-Server funktioniert, möchte ich seine Funktionalität testen.
 
 [2.2.6 Werbeblocker testen](./werbeblocker_testen.md)
 

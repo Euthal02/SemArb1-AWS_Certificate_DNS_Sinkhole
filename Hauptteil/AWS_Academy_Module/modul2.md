@@ -2,7 +2,7 @@
 
 Es werden zwar keine direkten Zahlen genannt, da dies wie erwähnt sehr dynamisch ist, jedoch finde ich dieses Modul sehr wichtig.
 
-Die Abrechnung der Kosten im Vergleich zu den Einnahmen eines Unternehmes ist sehr wichtig.
+Die Abrechnung der Kosten im Vergleich zu den Einnahmen eines Unternehmens ist sehr wichtig.
 
 Daher ist es auch wichtig, dass man weiss wie diese Abrechnung aufgebaut ist.
 

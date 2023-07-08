@@ -28,7 +28,7 @@ Es gibt nur ein Mount Target pro Availabilty Zone. Das heisst, wenn eine Availab
 
 Der S3 Glacier ist eine langfristige Datenbackup und Storagelösung. Man kann damit Daten langfristig zu tiefen Kosten in der Cloud speichern.
 
-Ein Archive ist dabei der Content welcher gespeichert wird, der Vault ist der Bucket für den Glacier. Man kann definieren innert welcher Zeit man die Daten allenfalls wieder bruacht. Je höher die Holzeit, umso tiefer der Preis.
+Ein Archiv ist dabei der Content welcher gespeichert wird, der Vault ist der Bucket für den Glacier. Man kann definieren innert welcher Zeit man die Daten allenfalls wieder braucht. Je höher die Holzeit, umso tiefer der Preis.
 
 Einen S3 Glacier erstellt man in der AWS Console, anschliessend kann dieser aber nur noch über die SDKs oder die AWS CLI erreicht werden.
 

@@ -3,7 +3,7 @@
 Zusatzdokumente, welche meine Arbeit komplementieren.
 
 * [Quellen](./quellen.md)
-* [Glossar](./glossar.md)
+* [Ressourcen](../Ressourcen)
 
 -----
 

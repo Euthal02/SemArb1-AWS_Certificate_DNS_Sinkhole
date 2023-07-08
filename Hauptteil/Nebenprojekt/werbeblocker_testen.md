@@ -1,6 +1,6 @@
 # 2.2.6 Werbeblocker testen
 
-Nun da ich weis, dass der DNS Server funktioniert, möchte ich testen ob dies auch einen merkbaren Unterschied beim Surfen bringt.
+Nun da ich weiss, dass der DNS-Server funktioniert, möchte ich testen ob dies auch einen merkbaren Unterschied beim Surfen bringt.
 
 ## Testverfahren
 
@@ -29,7 +29,7 @@ Mit keinem Blocker werden 10% der Ads geblockt. Ich vermute diese 10% sind russi
 
 ![Yandex](../../Ressourcen/Bilder/nebenprojekt/yandex_urls_allowed.png)
 
-Ich erwarte mit meinem DNS Server nun also mindestens 11% oder mehr, damit wir einen merkbaren Benefit sehen können.
+Ich erwarte mit meinem DNS-Server nun also mindestens 11% oder mehr, damit wir einen merkbaren Benefit sehen können.
 
 ## Testergebnisse - PiHole
 
@@ -44,11 +44,11 @@ nameserver 16.62.246.12
 
 ![Testresultat](../../Ressourcen/Bilder/nebenprojekt/test_result-with-blocker.PNG)
 
-Momentan läuft der DNS Server mit der Standard Konfiguration, somit ist die Blockliste nicht sehr ausgereift.
+Momentan läuft der DNS-Server mit der Standard Konfiguration, somit ist die Blockliste nicht sehr ausgereift.
 
 Ich könnte die Blockliste weiter ergänzen und so einen höheren Wert erreichen. Für meine Zwecke reicht dieses Resultat jedoch vollkommen.
 
-Die Standard Blockliste kann man hier finden:
+Die Standardblockliste kann man hier finden:
 
 <https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts>
 

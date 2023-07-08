@@ -20,6 +20,6 @@ Ich muss nun als Resultat von diesem Fehlschlag folgende Kosten hinnehmen.
 
 -----
 
-[3. Nebenprojektabschluss](./projektabschluss.md)
+[3. Schlussteil](../../Schlussteil/README.md)
 
 [Zurück zum Unterverzeichnis](../README.md)

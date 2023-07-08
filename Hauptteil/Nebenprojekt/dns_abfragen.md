@@ -1,12 +1,12 @@
 # 2.2.5 DNS Abfragen testen
 
-Ich teste meinen DNS Server indem ich ihn an einem neuen System als Haupt-DNS-Server konfiguriere.
+Ich teste meinen DNS-Server, indem ich ihn an einem neuen System als Haupt-DNS-Server konfiguriere.
 
 Falls das System weiterhin nutzbar ist / surfen kann, betrachte ich den Test als Erfolg.
 
 ## Pre Config
 
-Bevor ich meinen DNS Server als Hauptserver konfigurieren konnte, sah die Config folgendermassen aus:
+Bevor ich meinen DNS-Server als Hauptserver konfigurieren konnte, sah die Config folgendermassen aus:
 
 ```
 [mka@mka-virtualbox ~]$ cat /etc/resolv.conf 
@@ -54,7 +54,7 @@ Wie man im unteren Bild erkennen kann, funktioniert eine normale Abfrage tadello
 
 -----
 
-Als nächstes möchte ich die Werbeblocking Funktionalität testen.
+Als Nächstes möchte ich die Werbeblocking Funktionalität testen.
 
 [2.2.6 Werbeblocker testen](./werbeblocker_testen.md)
 
